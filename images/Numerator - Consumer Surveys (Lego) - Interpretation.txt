@@ -1,0 +1,7 @@
+Demographics & Psychographics: 
+Percent of brand’s buyers who fall into each demographic/psychographic breakout, indexed against the percent of the general population in that breakout. 
+An index of 120 would indicate the brand’s buyers are 20% more likely to be part of a given breakout than the average shopper (i.e. 20% more likely to be Gen Z). 
+
+Top Channels: 
+The share of spending captured by each retail channel among a retailer’s shopper base, indexed against the share of spending captured by the general population in that channel. 
+This applies to spending across all categories, brands and channels. An index of 80 would indicate the retailer’s shopper base spends 20% less in a given channel than the average shopper.
